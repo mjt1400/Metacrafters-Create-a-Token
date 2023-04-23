@@ -9,3 +9,11 @@ The "burn" function takes two parameters, "_address" and "_value", and removes "
 The contract includes the "SPDX-License-Identifier" statement, which is a standardized way of indicating the license under which the contract is released. In this case, the license is the MIT license.
 
 ## Getting Started
+
+### Installation
+
+Download the file and import it to your preferred IDE. I recommend using Remix, an Ethereum IDE.
+
+### Executing the Program
+
+After you downlod the file, run the compiler then deploy the contract in order to mint, burn and monitor token supply.
