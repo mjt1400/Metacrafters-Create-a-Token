@@ -1,5 +1,5 @@
-# CREATE A TOKEN USING SOLIDITY
-This is a Solidity smart contract that defines a token called "DOGGY" with the symbol "DY". The token is built on the Ethereum blockchain using the ERC20 token standard. The contract has two functions, "mint" and "burn", which can be used to create or destroy tokens, respectively.
+# CREATE A TOKEN PROJECT USING SOLIDITY
+This is a Solidity smart contract project that defines a token called "DOGGY" with the symbol "DY". The token is built on the Ethereum blockchain using the ERC20 token standard. The contract has two functions, "mint" and "burn", which can be used to create or destroy tokens, respectively.
 
 ## DESCRIPTION
 The "mint" function takes two parameters, "_address" and "_value", and adds "_value" tokens to the "_address" account. The "totalSupply" variable is also increased by "_value".
